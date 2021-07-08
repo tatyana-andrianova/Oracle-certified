@@ -1,5 +1,7 @@
 package Lesson5;
 
+//Урок 5 - Создание объектов. Понятие «конструктор». Объявление и вызов методов.
+
 public class Lesson_5_Method_Сonstructors {
 
 }

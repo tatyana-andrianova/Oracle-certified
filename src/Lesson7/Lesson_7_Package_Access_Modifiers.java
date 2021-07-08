@@ -1,5 +1,7 @@
 package Lesson7;
 
+//Урок 7 - Понятие «package». Модификаторы видимости (access modifiers)
+
 public class Lesson_7_Package_Access_Modifiers {
     double id;
     public String surname;

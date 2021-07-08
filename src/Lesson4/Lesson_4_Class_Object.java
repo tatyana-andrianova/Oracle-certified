@@ -1,5 +1,7 @@
 package Lesson4;
 
+//Урок 4 - Понятия «класс» и «объект». Знакомство со ссылочными типами данных
+
 public class Lesson_4_Class_Object {
 
 }

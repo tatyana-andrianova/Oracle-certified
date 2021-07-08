@@ -1,5 +1,7 @@
 package Lesson8;
 
+//Урок 8 - Модификаторы «final» и «static». Понятие «константа»
+
 public class Lesson_8_FinalStaticConstant {
 
     static double multiply(double a, double b, double c){

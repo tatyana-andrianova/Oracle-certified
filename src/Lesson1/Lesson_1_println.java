@@ -1,5 +1,7 @@
 package Lesson1;
 
+//Урок 1 - Знакомство с Java. Методы print и println
+
 class Lesson_1_println {
     public static void main(String[] args) {
         System.out.println("                РУБАИ");

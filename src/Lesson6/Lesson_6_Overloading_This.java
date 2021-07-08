@@ -1,5 +1,7 @@
 package Lesson6;
 
+//Урок 6 - Перегрузка методов и конструкторов (overloading). Ключевое слово this
+
 public class Lesson_6_Overloading_This {
 
 }

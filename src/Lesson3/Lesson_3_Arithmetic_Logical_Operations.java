@@ -1,5 +1,7 @@
 package Lesson3;
 
+//Урок 3-Арифметические и логические операции. Операции сравнения и присваивания
+
 public class Lesson_3_Arithmetic_Logical_Operations {
     public static void main(String[] args) {
         int i1 = 5;
